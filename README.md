@@ -1,2 +1,2 @@
-# React_-trainning_app
+# Reacttrainingapp
 project work
